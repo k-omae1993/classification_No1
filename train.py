@@ -6,8 +6,6 @@ import torch.nn as nn
 import torch.optim as optim
 from torch.optim import lr_scheduler
 from torchvision import models
-from imshow import imshow
-from visualize_model import visualize_model
 from model import *
 import argparse
 
